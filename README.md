@@ -9,10 +9,10 @@ chatbot desenvolvido pelo prof. Renato Gobet Uzun
 ## Modo de deploy
 
 Comandos:
-...
+```
     npm install
     npm run build
-...
+```
 
 Resultado na pasta Dist
 
